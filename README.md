@@ -1,4 +1,3 @@
-````markdown
 # Loan Approval Prediction
 
 A machine learning application that predicts loan approval using applicant and financial information. The project includes data preprocessing, classification model evaluation, and an interactive Streamlit interface for predictions and model analysis.
