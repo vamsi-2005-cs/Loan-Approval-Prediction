@@ -31,7 +31,7 @@ The project uses a dataset containing **614 records and 13 attributes** related 
 
 Data preprocessing includes handling missing values and encoding categorical features.
 
-## Technologies
+## Tools and Technologies
 
 - Python
 - Pandas
@@ -58,6 +58,7 @@ Loan-Approval-Prediction/
 │
 └── notebook/
     └── Loan_Approval_Prediction.ipynb
+```
 
 ## Installation
 
