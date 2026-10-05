@@ -50,13 +50,14 @@ Loan-Approval-Prediction/
 ├── README.md
 ├── run.bat
 ├── run.sh
+├── .gitignore
 │
 ├── data/
+│   ├── README.md
 │   └── train.csv
 │
 └── notebook/
-    └── Loan Approval Prediction.ipynb
-````
+    └── Loan_Approval_Prediction.ipynb
 
 ## Installation
 
